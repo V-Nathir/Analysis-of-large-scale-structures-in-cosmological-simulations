@@ -11,11 +11,11 @@ You can use these mechanics to inspire your code.
 <br/>
 ## Final Degree Project
 <br/>
-### Abstrac
+-- _Abstrac_ --
 <br/>
 Data from an N-Body cosmological simulation written in Big Endian code will be analysed. Such data will be interpreted and packed in useful packages to study particle structures on different scales. Particularly, the values used will be of mass, position, velocity, and type of baryonic particle (stars and gas). It will be discerned if the relative positions and gravitational interactions between structures could create new persistent or own orbital plans, or important instabilities that do not allow these and aggressively integrating in the cosmic web (CW). 
 <br/>
-The inertia tensor (reduced) of 4 structures will be calculated: web 2, identified as cosmic web, web 3 attached to web 2, web of persistent satellites (SP), with hypothesis of a future orbital persistent plan, and web of non-persistent satellites (SNP), with opposing hypothesis. This will allow determining the main semi-axes and eigenvectors associated to each eigenvalues in the principal directions.  And this will reduce a structure into an inertia ellipsoid with which changes and evolutions can be dated. 
+The inertia tensor (reduced) of 4 structures (group of particles-> stars+gas-> galaxies) will be calculated: web 2, identified as cosmic web, web 3 attached to web 2, web of persistent satellites (SP), with hypothesis of a future orbital persistent plan, and web of non-persistent satellites (SNP), with opposing hypothesis. This will allow determining the main semi-axes and eigenvectors associated to each eigenvalues in the principal directions.  And this will reduce a structure into an inertia ellipsoid with which changes and evolutions can be dated. 
 <br/>
 A possible correlation confirming the previous hypothesis has been discovered. For SP: the entry angle of the smaller semi-axis is tangential with the one of web 2, a stable orbital plan and with its own morphology will exist. For SNP: the entry is done in parallel, the creation of an stable orbital plan is not ensured, and it will be swiftly accreted to the cosmic web, with a different repercussion in the changes of the mass centres, angular momentum (modified), morphology, and the star-gas relation.
 <br/>
