@@ -11,7 +11,7 @@ You can use these mechanics to inspire your code.
 <br/>
 ## Final Degree Project
 <br/>
---                                                                                 _Abstrac_                                                                   --
+---------------------------------------------------------------------------| ABSTRACT |---------------------------------------------------------------------------
 <br/>
 Data from an N-Body cosmological simulation written in Big Endian code will be analysed. Such data will be interpreted and packed in useful packages to study particle structures on different scales. Particularly, the values used will be of mass, position, velocity, and type of baryonic particle (stars and gas). It will be discerned if the relative positions and gravitational interactions between structures could create new persistent or own orbital plans, or important instabilities that do not allow these and aggressively integrating in the cosmic web (CW). 
 <br/>
@@ -24,16 +24,16 @@ A possible correlation confirming the previous hypothesis has been discovered. F
 ## Code Info:
 <br/>
 
-  .-Vol I and VolI_launch : VolI_launch import the code of Vol I. Convert Big Endian code to numpy files and save them. 
+  .-**Vol I and VolI_launch** : VolI_launch import the code of Vol I. Convert Big Endian code to numpy files and save them. 
 <br/>
 
-  .-Vol II: create and save conversions tables from Simulation units to Internacional System.
+  .-**Vol II**: create and save conversions tables from Simulation units to Internacional System.
  <br/>
 
-  .-Vol III: load files and print it in the terminal. Check-out of if all files are created. 
+  .-**Vol III**: load files and print it in the terminal. Check-out of if all files are created. 
  <br/>
 
-  .-Particle Vol IV: calculate the center of mass (CM) applying loops structures and conditionals that can be adapted to each situation. The CM must be between a lower and upper bound generate for each situation automatically. Create a identification list to vinculate the real number of a particle and the modificated number after load it. Plot a massive number of particles using scatter. With these plots it can be check-out how the techniques to calculate CM are working. Count the number of type of a particle: stars and gas, also dark matter. Finally, it can find particles around a point and track its individual motion.
+  .-**Particle Vol IV**: calculate the center of mass (CM) applying loops structures and conditionals that can be adapted to each situation. The CM must be between a lower and upper bound generate for each situation automatically. Create a identification list to vinculate the real number of a particle and the modificated number after load it. Plot a massive number of particles using scatter. With these plots it can be check-out how the techniques to calculate CM are working. Count the number of type of a particle: stars and gas, also dark matter. Finally, it can find particles around a point and track its individual motion.
  <br/>
 
-  .-Tensor Vol V: calculate the inertia tensor, angular momentum and morphology of the large structures. Calculate the eigenvectors and eigenvalues. Check-out the relation gas/star. Plots: Aitoffs proyections, scatter, plots, ... 
+  .-**Tensor Vol V**: calculate the inertia tensor, angular momentum and morphology of the large structures. Calculate the eigenvectors and eigenvalues. Check-out the relation gas/star. Plots: Aitoffs proyections, scatter, plots, ... 
