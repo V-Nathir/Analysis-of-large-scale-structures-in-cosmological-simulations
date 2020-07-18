@@ -11,7 +11,7 @@ You can use these mechanics to inspire your code.
 <br/>
 ## Final Degree Project
 <br/>
-                                                                              -- _Abstrac_ --
+--                                                                                 _Abstrac_                                                                   --
 <br/>
 Data from an N-Body cosmological simulation written in Big Endian code will be analysed. Such data will be interpreted and packed in useful packages to study particle structures on different scales. Particularly, the values used will be of mass, position, velocity, and type of baryonic particle (stars and gas). It will be discerned if the relative positions and gravitational interactions between structures could create new persistent or own orbital plans, or important instabilities that do not allow these and aggressively integrating in the cosmic web (CW). 
 <br/>
