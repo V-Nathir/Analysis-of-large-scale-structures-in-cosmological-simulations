@@ -319,7 +319,7 @@ for w in webs:
 		c=np.sqrt(5*(lamda[0]-lamda[2]+lamda[1])/(2*masatotal[w]))
 		T=(1-b**2/a**2)/(1-c**2/a**2)
 		ell=(a**2-c**2)/(a**2+b**2+c**2)
-		prol=(a**2+b**2-2*b**2)/(a**2+b**2+c**2)
+		prol=(a**2+c**2-2*b**2)/(a**2+b**2+c**2)
 		trialxi[n]=T
 		ellipticity[n]=ell
 		prolatness[n]=prol
