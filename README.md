@@ -1,4 +1,6 @@
+# Analysis of large-scale structures in cosmological simulations
 # Tools-for-data-from-a-cosmological-simulation
+ 
 My final degree project in physics: Inertia tensor of structures at different scales in cosmological simulations.<br/>
 A compilation of diferent tools and packages to calculate some physics parameters of interest and tools like: reading Big Endian files, creating Aitoff's projections and a lot of plots (scatter3d, scatter2d, plot3d,barplots with modifications...), calculating eigenvalues and eigenvector, reduced inertia tensor, inertia ellipsoids, normalized angular momentum and morphology of large structures, creating and saving files, creating and reading directories, techniques to calculate center of mass with several tolerances...
 <br/>
